@@ -1,2 +1,4 @@
 int a = 5, b = 10;
 Console.WriteLine("Sum: " + (a + b));
+int c = 10, d = 5;
+Console.WriteLine("Difference: " + (c - d));
